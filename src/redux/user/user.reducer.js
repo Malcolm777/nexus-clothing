@@ -1,3 +1,5 @@
+import { UserActionTypes } from "./user.types";
+
 //reducer is a function that gets two properties 
 //write a bunch of actions, name them whatever 
 //reducers must be aware of the action 
@@ -13,7 +15,7 @@ const INITIAL_STATE = {
 //how do we return the state 
 const userReducer = (state = INITIAL_STATE, action) => { 
     switch (action.type) { 
-        case 'SET_CURRENT_USER':
+        case UserActionTypes.SET_CURRENT_USER:
             return { 
                 ...state, 
                 currentUser: action.payload
