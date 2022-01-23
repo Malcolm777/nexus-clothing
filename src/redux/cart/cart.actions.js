@@ -5,3 +5,8 @@ export const toggleCartHidden = () => ({
 });
 
 //in reducer we're not using payload
+
+export const addItem = item => ({
+    type: CartActionTypes.ADD_ITEM,
+    payload: item
+});
