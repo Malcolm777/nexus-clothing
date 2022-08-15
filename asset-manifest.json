@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Malcolm777/nexus-clothing/static/css/main.c2ca9c9a.css",
+    "main.js": "/Malcolm777/nexus-clothing/static/js/main.e374e87a.js",
+    "static/media/shopping-bag.svg": "/Malcolm777/nexus-clothing/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/Malcolm777/nexus-clothing/static/media/crown.11f0e8eecb56c444decaca9be26e9038.svg",
+    "index.html": "/Malcolm777/nexus-clothing/index.html",
+    "main.c2ca9c9a.css.map": "/Malcolm777/nexus-clothing/static/css/main.c2ca9c9a.css.map",
+    "main.e374e87a.js.map": "/Malcolm777/nexus-clothing/static/js/main.e374e87a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ca9c9a.css",
+    "static/js/main.e374e87a.js"
+  ]
+}
