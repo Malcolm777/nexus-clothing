@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2ca9c9a.css",
-    "main.js": "/static/js/main.9a039280.js",
-    "static/media/shopping-bag.svg": "/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
-    "static/media/crown.svg": "/static/media/crown.11f0e8eecb56c444decaca9be26e9038.svg",
-    "index.html": "/index.html",
-    "main.c2ca9c9a.css.map": "/static/css/main.c2ca9c9a.css.map",
-    "main.9a039280.js.map": "/static/js/main.9a039280.js.map"
+    "main.css": "/nexus-clothing/static/css/main.c2ca9c9a.css",
+    "main.js": "/nexus-clothing/static/js/main.2ca1e59a.js",
+    "static/media/shopping-bag.svg": "/nexus-clothing/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/nexus-clothing/static/media/crown.11f0e8eecb56c444decaca9be26e9038.svg",
+    "index.html": "/nexus-clothing/index.html",
+    "main.c2ca9c9a.css.map": "/nexus-clothing/static/css/main.c2ca9c9a.css.map",
+    "main.2ca1e59a.js.map": "/nexus-clothing/static/js/main.2ca1e59a.js.map"
   },
   "entrypoints": [
     "static/css/main.c2ca9c9a.css",
-    "static/js/main.9a039280.js"
+    "static/js/main.2ca1e59a.js"
   ]
 }
